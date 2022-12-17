@@ -1,4 +1,4 @@
-# Some of the assingments from my degree program
+# Some of the assignments from my degree program
 
 The basic scripting examples are from the basic python class I took in my first semester and includes examples of basic python concepts.
 
