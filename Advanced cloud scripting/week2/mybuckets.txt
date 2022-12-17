@@ -1,7 +1,0 @@
-Bucket hjhanson-script2-week2-f22 found!
-The object error.html exists in hjhanson-script2-week2-f22.
-The object index.html exists in hjhanson-script2-week2-f22.
-------------------------------
-Bucket hjhanson-scripting-week2 found!
-This bucket contains no objects.
-------------------------------

@@ -1,9 +1,0 @@
-1. Set up a Lambda function to email if a new key pair is created. This would use the EC2 client fucntion of describe_key_pairs, and the elements
-of the response that I would have SNS email would be KeyPairId, KeyName, and Tags
-
-2.Set up a Lambda function to automatically start an EC2 instance if it is ever stopped. Would probably use this to monitor a specific instance rather
-than all instances. Would use an EC2 client and the start_instances fuction to achieve this. WOuld have lambda print something along the lines of, 
-Instance has stopped, restarting instance.
-
-3.Have a Lambda fuction that notifies with SNS when a security group is updated. Use the EC2 client and the describe_security_groups function to
-get the security group name and ip ranges emailed using SNS.

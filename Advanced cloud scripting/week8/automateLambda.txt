@@ -1,3 +1,0 @@
-1. create_function
-2. FunctionName, Role, and Code
-3. You can use code from an S3 bucket or use code from an ImageUri
