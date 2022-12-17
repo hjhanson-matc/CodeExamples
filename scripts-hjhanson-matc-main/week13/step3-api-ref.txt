@@ -1,8 +1,0 @@
-1. Which Python library do you need to install to deploy a Web App in Azure?
-    - azure-mgmt-web
-2. Which function of the web_apps module do you need to use to create a new web app?
-    - create_or_update
-3. Which Python library do you need to install to manage Key Vault Secrets in Azure?
-    - azure-keyvault-secrets
-4. What function do you use to retrieve a secret from the Key Vault?
-    - get_secret
