@@ -1,0 +1,12 @@
+instance is pending
+Waiting for instance to run....
+Instance is now up and running....
+The instance id is: i-0abf218779b963880
+The public IP of the instance is: 18.233.102.209
+The instance has the following tags
+None
+The instance now has the following tags
+[{'Key': 'Name', 'Value': 'Hunter'}]
+Would you like to terminate the instance?(y/n):The instance will now terminate!
+Waiting for instance to terminate...
+instance is terminated
